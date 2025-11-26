@@ -94,20 +94,28 @@ java Main
 
 **Principais Funções da DLL**
 
-| **Função** | **Descrição** |
-
-| AbreConexaoImpressora | Abre conexão com a impressora |
-| FechaConexaoImpressora | Encerra conexão |
-| ImpressaoTexto | Imprime texto |
-| ImpressaoQRCode | Imprime QR Code |
-| ImpressaoCodigoBarras | Imprime código de barras |
-| ImprimeXMLSAT | Imprime XML SAT |
-| ImprimeXMLCancelamentoSAT | Imprime XML de cancelamento SAT |
-| AvancaPapel | Avança linhas de papel |
-| Corte | Realiza corte |
-| AbreGaveta | Abre gaveta com parâmetros |
-| AbreGavetaElgin | Abre gaveta padrão Elgin |
-| SinalSonoro | Emite sinal sonoro |
+<table>
+  <thead>
+    <tr>
+      <th>Função</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>AbreConexaoImpressora</td><td>Abre conexão com a impressora</td></tr>
+    <tr><td>FechaConexaoImpressora</td><td>Encerra conexão</td></tr>
+    <tr><td>ImpressaoTexto</td><td>Imprime texto</td></tr>
+    <tr><td>ImpressaoQRCode</td><td>Imprime QR Code</td></tr>
+    <tr><td>ImpressaoCodigoBarras</td><td>Imprime código de barras</td></tr>
+    <tr><td>ImprimeXMLSAT</td><td>Imprime XML SAT</td></tr>
+    <tr><td>ImprimeXMLCancelamentoSAT</td><td>Imprime XML de cancelamento SAT</td></tr>
+    <tr><td>AvancaPapel</td><td>Avança linhas de papel</td></tr>
+    <tr><td>Corte</td><td>Realiza corte</td></tr>
+    <tr><td>AbreGaveta</td><td>Abre gaveta com parâmetros</td></tr>
+    <tr><td>AbreGavetaElgin</td><td>Abre gaveta padrão Elgin</td></tr>
+    <tr><td>SinalSonoro</td><td>Emite sinal sonoro</td></tr>
+  </tbody>
+</table>
 
 **Objetivos Acadêmicos Atingidos**
 
