@@ -1,5 +1,7 @@
 **README – Sistema de Impressão Elgin (Java + JNA)**
 
+Componentes do grupo: César, Igor, Sophia Barros, Gustavo e Lucas Vieira
+
 **Descrição**
 
 Este projeto implementa um sistema de comunicação com impressoras térmicas Elgin utilizando Java e a biblioteca JNA para acessar as funções da DLL E1_Impressora01.dll.
@@ -93,6 +95,7 @@ java Main
 **Principais Funções da DLL**
 
 | **Função** | **Descrição** |
+
 | AbreConexaoImpressora | Abre conexão com a impressora |
 | FechaConexaoImpressora | Encerra conexão |
 | ImpressaoTexto | Imprime texto |
